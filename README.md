@@ -1,11 +1,5 @@
 
 
-Write attractive readme 
-For stone paper scissors game using only python 
-Open in terminal 
-
-Here’s a clean, attractive README you can use for your project:
-
 🎮 Stone Paper Scissors (Python - Terminal Game)
 A simple and fun Stone 🪨 Paper 📄 Scissors ✂️ game built using pure Python. Play directly in your terminal and challenge the computer in this classic game of luck and strategy!
 
